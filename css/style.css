@@ -1,0 +1,34 @@
+.count-down{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;  
+}
+
+.timer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #ffffff;
+    font-size: 24px;
+}
+
+.timer small {
+    margin-left: 15px;
+    font-size:22px;
+    font-weight: 600;
+}
+
+.container .h1 {
+    font-size: 45px !important;
+}
+
+.container{
+    width: 30%;
+    margin: 15% auto;
+    text-align: center;
+    color: #ffffff;  
+}
+
+body{
+    background-image: url('/img/new-year.jpg'); 
+}
